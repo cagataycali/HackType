@@ -1,0 +1,30 @@
+{
+  "name": "hacktype",
+  "version": "1.0.1",
+  "description": "Type like as hacker dude",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccali14/HackType.git"
+  },
+  "keywords": [
+    "Hack",
+    "hacker",
+    "like"
+  ],
+  "bin": {
+    "hacktype": "./index.js"
+  },
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccali14/HackType/issues"
+  },
+  "homepage": "https://github.com/ccali14/HackType#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
