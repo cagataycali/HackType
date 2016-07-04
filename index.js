@@ -1,4 +1,11 @@
 #!/usr/bin/env node
+/*
+  ___|                       |                       ___|         | _)
+   |       _` |   _` |   _` |  __|   _` |  |   |      |       _` |  |  |
+   |      (   |  (   |  (   |  |    (   |  |   |      |      (   |  |  |
+  \____| \__,_| \__, | \__,_| \__| \__,_| \__, |     \____| \__,_| _| _|
+                |___/                     ____/
+*/
 var program = require('commander');
 program
   .option('-s, --string <string>', 'H*ck*d string')
